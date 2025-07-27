@@ -1,0 +1,16 @@
+{
+  "name": "class2307",
+  "version": "1.0.0",
+  "main": "crud.js",
+  "scripts": {
+    "start": "node crud.js",
+    "dev": "nodemon crud.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
